@@ -11,6 +11,8 @@
 
 ## Penggunaan
 Setelah instalasi selesai, jalankan perintah berikut untuk memulai server:
+```bash
+npm start
 
-##Note
+## Note
 `Repo ini adalah latihan selama stupen Bangkit`
