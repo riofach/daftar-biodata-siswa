@@ -10,9 +10,9 @@
    git clone https://github.com/username/repo.git
 
 ## Penggunaan
-Setelah instalasi selesai, jalankan perintah berikut untuk memulai server:
-```bash
-npm start
+1. Setelah instalasi selesai, jalankan perintah berikut untuk memulai server:
+   ```bash
+   npm start
 
 ## Note
 `Repo ini adalah latihan selama stupen Bangkit`
